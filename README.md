@@ -1,4 +1,4 @@
-##Analyzing the Anatomy of "Bob's Burgers" Episodes
+## Analyzing the Anatomy of "Bob's Burgers" Episodes
 
 ### Overview
 
